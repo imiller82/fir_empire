@@ -13,4 +13,4 @@ Files:
 
 PrimarySourceBib.csv - Primary Source Bibliography.
 
-This is intended to be a complete list of primary sources used in the text. Where possible, I have provided links to sources available on the web.
+This is intended to be a complete list of primary sources used in the text. Where possible, I have provided links to sources available on the web. Due to the nature of bibliographic information, many columns are very sparse.
